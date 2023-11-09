@@ -162,6 +162,17 @@ for ( i = 0; i < dt.length; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-empty-like`][@stdlib/array/empty-like]</span><span class="delimiter">: </span><span class="description">create an uninitialized array having the same length and data type as a provided array.</span>
+-   <span class="package-name">[`@stdlib/array-full-like`][@stdlib/array/full-like]</span><span class="delimiter">: </span><span class="description">create a filled array having the same length and data type as a provided array.</span>
+-   <span class="package-name">[`@stdlib/array-nans-like`][@stdlib/array/nans-like]</span><span class="delimiter">: </span><span class="description">create an array filled with NaNs and having the same length and data type as a provided array.</span>
+-   <span class="package-name">[`@stdlib/array-ones-like`][@stdlib/array/ones-like]</span><span class="delimiter">: </span><span class="description">create an array filled with ones and having the same length and data type as a provided array.</span>
+-   <span class="package-name">[`@stdlib/array-zeros`][@stdlib/array/zeros]</span><span class="delimiter">: </span><span class="description">create a zero-filled array having a specified length.</span>
+-   <span class="package-name">[`@stdlib/ndarray-zeros-like`][@stdlib/ndarray/zeros-like]</span><span class="delimiter">: </span><span class="description">create a zero-filled ndarray having the same shape and data type as a provided ndarray.</span>
+
 </section>
 
 <!-- /.related -->
@@ -234,6 +245,22 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/array-zeros-like/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-zeros-like/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/array/empty-like]: https://github.com/stdlib-js/array-empty-like
+
+[@stdlib/array/full-like]: https://github.com/stdlib-js/array-full-like
+
+[@stdlib/array/nans-like]: https://github.com/stdlib-js/array-nans-like
+
+[@stdlib/array/ones-like]: https://github.com/stdlib-js/array-ones-like
+
+[@stdlib/array/zeros]: https://github.com/stdlib-js/array-zeros
+
+[@stdlib/ndarray/zeros-like]: https://github.com/stdlib-js/ndarray-zeros-like
+
+<!-- </related-links> -->
 
 </section>
 
