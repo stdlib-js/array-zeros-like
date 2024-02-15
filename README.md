@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import zerosLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros-like@deno/mod.js';
+import zerosLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros-like@v0.2.0-deno/mod.js';
 ```
 
 #### zerosLike( x\[, dtype] )
@@ -113,7 +113,7 @@ var arr = zerosLike( x, 'int32' );
 ```javascript
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-dtypes@deno/mod.js';
 import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros@deno/mod.js';
-import zerosLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros-like@deno/mod.js';
+import zerosLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros-like@v0.2.0-deno/mod.js';
 
 // Create a zero-filled array:
 var x = zeros( 4, 'complex128' );
