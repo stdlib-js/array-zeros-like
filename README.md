@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import zerosLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros-like@esm/index.mjs';
+import zerosLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros-like@v0.2.1-esm/index.mjs';
 ```
 
 #### zerosLike( x\[, dtype] )
@@ -118,7 +118,7 @@ var arr = zerosLike( x, 'int32' );
 
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-dtypes@esm/index.mjs';
 import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros@esm/index.mjs';
-import zerosLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros-like@esm/index.mjs';
+import zerosLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros-like@v0.2.1-esm/index.mjs';
 
 // Create a zero-filled array:
 var x = zeros( 4, 'complex128' );
