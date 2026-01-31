@@ -46,7 +46,7 @@
   "devDependencies": {
     "@stdlib/array-complex128": "^0.3.0",
     "@stdlib/array-complex64": "^0.3.0",
-    "@stdlib/array-dtypes": "^0.3.0",
+    "@stdlib/array-dtypes": "^0.4.0",
     "@stdlib/array-float32": "^0.2.2",
     "@stdlib/array-float64": "^0.2.2",
     "@stdlib/array-int16": "^0.2.2",
@@ -56,7 +56,7 @@
     "@stdlib/array-uint32": "^0.2.2",
     "@stdlib/array-uint8": "^0.2.2",
     "@stdlib/array-uint8c": "^0.2.2",
-    "@stdlib/assert-instance-of": "^0.2.2",
+    "@stdlib/assert-instance-of": "^0.3.0",
     "@stdlib/assert-is-array": "^0.2.2",
     "@stdlib/assert-is-typed-array": "^0.2.2",
     "@stdlib/assert-is-typed-array-like": "^0.2.2",
