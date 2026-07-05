@@ -88,6 +88,7 @@ The function supports the following data types:
 
 -   `float64`: double-precision floating-point numbers (IEEE 754)
 -   `float32`: single-precision floating-point numbers (IEEE 754)
+-   `float16`: half-precision floating-point numbers (IEEE 754)
 -   `complex128`: double-precision complex floating-point numbers
 -   `complex64`: single-precision complex floating-point numbers
 -   `int32`: 32-bit two's complement signed integers
@@ -137,7 +138,7 @@ var zerosLike = require( '@stdlib/array-zeros-like' );
 var x = zeros( 4, 'complex128' );
 
 // Get a list of array data types:
-var dt = dtypes();
+var dt = dtypes( 'numeric' );
 
 // Generate additional zero-filled arrays...
 var y;
